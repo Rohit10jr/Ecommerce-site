@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![License](https://img.shields.io/badge/License-MIT-red)
 
-Welcome to our E-Commerce Project, a feature-rich, customizable Django-based online shopping platform. This project empowers you to build and launch your e-commerce store with ease.
+Welcome to my E-Commerce Project, a feature-rich, customizable Django-based online shopping platform. This project empowers you to build and launch your e-commerce store with ease.
 
 ![E-Commerce Project Screenshot](/screenshot.png)
 
@@ -36,10 +36,9 @@ Follow these steps to get your Django E-Commerce Project up and running:
 ### Installation
 
 1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Rohit10jr/Ecommerce-site.git
-  
+```
+git clone https://github.com/Rohit10jr/Ecommerce-site.git
+```  
 2. Create a virtual environment and activate it:
 ```
 python -m venv venv
