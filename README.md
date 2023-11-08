@@ -19,9 +19,8 @@ Welcome to our E-Commerce Project, a feature-rich, customizable Django-based onl
    - [Configuration](#configuration)
 3. [Usage](#usage)
    - [Admin Panel](#admin-panel)
-4. [Customization](#customization)
-5. [Contributions](#contributions)
-7. [Acknowledgments](#acknowledgments)
+4. [Contributions](#contributions)
+5. [Acknowledgments](#acknowledgments)
 
 ## Features
 
