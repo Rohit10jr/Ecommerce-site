@@ -1,6 +1,3 @@
-# Ecommerce-site
-pro 1 of 5
-
 # E-Commerce Project with Django
 
 ![Django](https://img.shields.io/badge/Django-3.x-brightgreen)
